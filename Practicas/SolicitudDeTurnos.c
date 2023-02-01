@@ -1,4 +1,5 @@
-// Programa que calcule el promedio de la nota de 10 estudiantes
+// Programa que calcule el promedio de la nota de 10 
+// estudiantes
 
 #include<stdio.h>
 
